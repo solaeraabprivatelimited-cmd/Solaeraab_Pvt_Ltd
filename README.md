@@ -1,5 +1,6 @@
 
-  # Solasa Private Limited Website
+  # Owner avatar
+Solaeraab Private Limited Website
   ## Running the code
 
   Run `npm i` to install the dependencies.
