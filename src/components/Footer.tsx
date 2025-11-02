@@ -157,12 +157,12 @@ export function Footer({ onOpenLegal }: FooterProps) {
               </motion.div>
               <div className="flex-1">
                 <div className="flex items-center gap-2 mb-2">
-                  <h4 className="text-lg sm:text-xl text-gray-900">Founder & Visionary</h4>
+                  <h4 className="text-lg sm:text-xl text-gray-900">Founder</h4>
                   <Sparkles className="w-4 h-4 text-blue-600" />
                 </div>
-                <h5 className="text-xl sm:text-2xl mb-2 text-gray-900">Reshma Shaik</h5>
+                <h5 className="text-xl sm:text-2xl mb-2 text-gray-900">Tasneem Shaik</h5>
                 <p className="text-gray-600 text-sm sm:text-base leading-relaxed">
-                  The visionary leader behind Solaeraab's innovative AI-powered solutions. Reshma Shaik is dedicated to transforming healthcare, education, mental wellness, and digital marketing through cutting-edge technology, making a meaningful impact on people's lives worldwide.
+                  The visionary leader behind Solaeraab's innovative AI-powered solutions. Tasneem Shaik is dedicated to transforming healthcare, education, mental wellness, and digital marketing through cutting-edge technology, making a meaningful impact on people's lives worldwide.
                 </p>
               </div>
             </div>
