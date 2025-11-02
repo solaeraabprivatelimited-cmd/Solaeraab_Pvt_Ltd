@@ -89,7 +89,7 @@ export function Footer({ onOpenLegal }: FooterProps) {
           >
             <h4 className="mb-4 text-base sm:text-lg text-gray-900">Products</h4>
             <ul className="space-y-3 text-gray-600 text-sm sm:text-base">
-              {['Oryga', 'Learnova', 'Eirya', 'Marketing Services'].map((product) => (
+              {['Oryga', 'Learnova', 'Eirya'].map((product) => (
                 <motion.li key={product} whileHover={{ x: 4 }} transition={{ duration: 0.2 }}>
                   <a href="#products" className="hover:text-blue-600 transition-colors inline-flex items-center gap-2">
                     {product}
